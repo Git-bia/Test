@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Sonic Ether/Natural Bloom/Demo Scene/demoScene.unity
+  isLoaded: 1
+  isActive: 1
